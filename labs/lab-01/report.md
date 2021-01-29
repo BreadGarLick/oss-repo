@@ -2,4 +2,4 @@
 
 ## Discord Screenshot
 
-![Discord](images/lab1/discord.png)
+<img src="images/lab1/discord.png"/>

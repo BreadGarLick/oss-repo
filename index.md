@@ -10,7 +10,7 @@ Discord: Ben Unger (Bread, Gar Lick#7201)
 
 Photo of Ben
 
-<img src="images/ben.jpg" width="200" />
+<img src="images/ben.jpg" width=250/>
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
