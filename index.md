@@ -8,7 +8,9 @@ github: BreadGarLick
 
 Discord: Ben Unger (Bread, Gar Lick#7201)
 
-Photo of Ben ![Ben](images/Ben.jpg){:height="25%" width="25%"}
+Photo of Ben
+
+<img src="images/ben.jpg" width="200" />
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
