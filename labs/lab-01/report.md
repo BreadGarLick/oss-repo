@@ -33,7 +33,7 @@ I have WSL installed and working, and am familiar with unix commands
 
 I have installed tree:
 
-<img src="images/tree.png" style="width: 55vw; min-width: 330px;" />
+<img src="images/tree.png" />
 
 ## Part 4
 
@@ -42,4 +42,4 @@ I have installed tree:
 ## Part 5
 I solved the blocky puzzle with this solution:
 
-<img src="images/blocky.png" />
+<img src="images/blocky.png" style="width:60%"/>
