@@ -4,6 +4,7 @@
 I have joined the Discord Server and sent a message.
 
 Discord Screenshot:
+
 <img src="images/discord.png" />
 
 ## Part 1
@@ -34,8 +35,10 @@ I have WSL installed and working, and am familiar with unix commands
 
 ## Part 5
 I solved the blocky puzzle with this solution:
+
 <img src="images/blocky.png" />
 
 I have installed tree
 Tree Screenshot:
+
 <img src="images/tree.png" />
