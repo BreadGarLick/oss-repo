@@ -31,14 +31,15 @@ I have read the first chapter in Beautiful Code
 
 I have WSL installed and working, and am familiar with unix commands
 
+I have installed tree:
+
+<img src="images/tree.png" style="width: 55vw; min-width: 330px;" />
+
 ## Part 4
+
+
 
 ## Part 5
 I solved the blocky puzzle with this solution:
 
 <img src="images/blocky.png" />
-
-I have installed tree
-Tree Screenshot:
-
-<img src="images/tree.png" />
