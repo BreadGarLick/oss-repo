@@ -36,10 +36,17 @@ I have installed tree:
 <img src="images/tree.png" />
 
 ## Part 4
+To show that I solved 7 of the RegexOne problems, here is the 7th problem completed (I needed to solve the past 6 to get to the 7th)
 
+<img src="images/7th.png" />
 
+To show that I completed 4 of the crossword puzzles, here is the 4th beginner crossword puzzle.
+
+<img src="images/4thth.png" />
 
 ## Part 5
 I solved the blocky puzzle with this solution:
 
 <img src="images/blocky.png" style="width:60%"/>
+
+## Part 6
