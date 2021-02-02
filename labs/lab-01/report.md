@@ -40,9 +40,10 @@ To show that I solved 7 of the RegexOne problems, here is the 7th problem comple
 
 <img src="images/7th.png" />
 
+
 To show that I completed 4 of the crossword puzzles, here is the 4th beginner crossword puzzle.
 
-<img src="images/4thth.png" />
+<img src="images/4th.png" />
 
 ## Part 5
 I solved the blocky puzzle with this solution:
@@ -50,3 +51,5 @@ I solved the blocky puzzle with this solution:
 <img src="images/blocky.png" style="width:60%"/>
 
 ## Part 6
+
+To start thinking about what open source project to join, I've started thinking about all the software that I use that may be open source. For example, I really like this one piece of software that maps out all of your storage drives and sorting each directory and file by size, so you can find what large files are filling up your computer. However, even though it is an open source project, the development isn't open to the public, just the source code. Audacity on the other hand, is open source and open development. I could look more into their development process to see how I could help.
